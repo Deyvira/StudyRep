@@ -1,0 +1,11 @@
+id,1,2,3
+Head,52,130,300
+Chest,37,111,130
+Stomach,35,105,100
+Limbs,30,103,100
+Сlip,30,2,1
+StartingAmmunition,60,10,10
+PelletСount,1,8,1
+RPM,896,183,366
+ReloadTime,"2,8",3,4
+EmptyReloadTime,3,"3,63",4
