@@ -1,0 +1,2 @@
+ReloadTime,"2,8",3,4
+EmptyReloadTime,3,"3,63",4
