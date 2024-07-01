@@ -7,5 +7,4 @@ Limbs,30,103,100
 StartingAmmunition,60,10,10
 PelletСount,1,8,1
 RPM,896,183,366
-ReloadTime,"2,8",3,4
-EmptyReloadTime,3,"3,63",4
+
